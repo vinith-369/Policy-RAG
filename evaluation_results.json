@@ -1,0 +1,406 @@
+{
+    "average_accuracy": 3.8,
+    "total_test_cases": 50,
+    "detailed_results": [
+        {
+            "test": {
+                "question": "If I am a service provider registered under this Act, can I record a report if an aggrieved person requests it?",
+                "expected_concept": "Yes, you can record the domestic incident report in the prescribed form at the request of the aggrieved person and forward a copy to the Magistrate and Protection Officer."
+            },
+            "answer": "Yes, if an aggrieved person requests it and you are a registered service provider located within the local limits of the jurisdiction of the court, you can record a domestic incident report.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What actions must a registered service provider take if an aggrieved person requires shelter in a shelter home?",
+                "expected_concept": "The service provider must ensure that the aggrieved person is provided shelter in a shelter home, if she so requires, and forward a report of the lodging of the aggrieved person in the shelter home to the police station within the local limits of which the domestic violence took place."
+            },
+            "answer": "A registered service provider must make available a safe shelter home if the aggrieved person so requires. They should also forward a copy of their report of having lodged the aggrieved person in the shelter home to the police station and the Magistrate having jurisdiction in the area where the shelter home is situated.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "If my former employer fails to pay the monetary relief awarded in my favor, what can I do according to the text?",
+                "expected_concept": "You can ask a Magistrate to direct your employer or someone who owes money to the respondent to directly pay you or deposit a portion of the wages or salaries due to the respondent with the court."
+            },
+            "answer": "According to the policy excerpt, if your former employer fails to pay the monetary relief awarded in your favor, you can apply to the Magistrate. The Magistrate may then direct your former employer's debtor or employer to directly pay the amount to you.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Can a Magistrate grant temporary custody of a child during a protection order hearing under this Act?",
+                "expected_concept": "Yes, the Magistrate can grant temporary custody of any child or children to the aggrieved person or the person making an application on her behalf."
+            },
+            "answer": "Yes, a Magistrate can grant temporary custody of a child during a protection order hearing under this Act.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "A: According to the act, which types of documents or transactions are excluded from its application?",
+                "expected_concept": "According to the act, which types of documents or transactions are excluded from its application?"
+            },
+            "answer": "According to the act, a negotiable instrument (other than a cheque, a Demand Promissory Note or a Bill of Exchange issued in favour of or endorsed by an entity regulated by the Reserve Bank of India, National Housing Bank, Securities and Exchange Board of India, Insurance Regulatory and",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "A: What does the term \"access\" mean as defined in this act?",
+                "expected_concept": "What does the term \"access\" mean as defined in this act?"
+            },
+            "answer": "The term \"access\" in this context refers to securing access or attempting to secure access to a protected system.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "How long does an applicant need to be ordinarily resident in India before applying for registration?",
+                "expected_concept": "An applicant must have resided in India throughout the period of twelve months immediately before making an application for registration, and during the eight years immediately preceding that period, for a minimum of six years."
+            },
+            "answer": "For the purposes of clauses (a) and (c), an applicant needs to have resided in India throughout the period of twelve months immediately before making an application for registration, and during the eight years immediately preceding that period, for a minimum of six years. For clause (f), the applicant or either of their parents must be an earlier citizen of independent India and ordinarily resident in India for twelve months immediately before applying. For clause (g), the applicant must have been registered as an Overseas Citizen of India Cardholder for five years and be ordinarily resident in India for twelve months before applying.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What is the requirement regarding continuous residence in India for an applicant?",
+                "expected_concept": "For an applicant to be deemed ordinarily resident in India, they must have resided in India throughout the period of twelve months immediately before making an application for registration and during the eight years preceding that period, for a minimum of six years."
+            },
+            "answer": "For an applicant to be deemed ordinarily resident in India, they must have resided in India throughout the period of twelve months immediately before making an application for registration. Additionally, they should have resided in India during the eight years immediately preceding that twelve-month period for a period of not less than six years.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What is the timeframe for filing an appeal against a Magistrate's order?",
+                "expected_concept": "An appeal to the Court of Session can be filed within thirty days from the date on which the order made by the Magistrate is served on the aggrieved person or the respondent, whichever is later."
+            },
+            "answer": "There shall lie an appeal to the Court of Session within thirty days from the date on which the order made by the Magistrate is served on the aggrieved person or the respondent, whichever is later.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "What penalties are imposed for breaching a protection order according to the Act?",
+                "expected_concept": "Breaching a protection order or an interim protection order carries a penalty of imprisonment for up to one year, a fine of up to twenty thousand rupees, or both."
+            },
+            "answer": "A breach of protection order, or of an interim protection order, by the respondent shall be punishable with imprisonment of either description for a term which may extend to one year, or with fine.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "Can a protection officer seize the respondent's personal property if it is jointly owned with me?",
+                "expected_concept": "No, a protection officer cannot seize any property without following the legal procedures as specified."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What kind of information can an informant provide to a Protection Officer regarding domestic violence?",
+                "expected_concept": "An informant can report that an act of domestic violence has been, or is being, or is likely to be committed."
+            },
+            "answer": "An informant can provide information about domestic violence to a Protection Officer.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What must a Certifying Authority do after revoking a Digital Signature Certificate?",
+                "expected_concept": "The Certifying Authority shall communicate the revocation to the subscriber."
+            },
+            "answer": "After revoking a Digital Signature Certificate, the Certifying Authority shall communicate the revocation to the subscriber.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "How should a Certifying Authority notify the public about the suspension or revocation of a Digital Signature Certificate?",
+                "expected_concept": "The Certifying Authority shall publish a notice of such suspension or revocation in the repository specified in the Digital Signature Certificate."
+            },
+            "answer": "The Certifying Authority shall publish a notice of such suspension or revocation.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "A citizen believes they were wrongly registered under this procedure. What can they do?",
+                "expected_concept": "They can apply to the Central Government for revision of the order within 30 days from the date of the order, and if there was a sufficient cause for delay, the application might still be accepted."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "How does the process work when someone requests a review of an order made by the Central Government?",
+                "expected_concept": "The person can apply for review within 30 days from the date of the order, and if there was a sufficient cause for missing this deadline, the Central Government may consider the application after the expiry of the period."
+            },
+            "answer": "An application for a review of an order passed in terms of section 14A should be disposed of in the manner provided for in the procedure laid down under clause (ia) of sub-section (2) of section 18.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Can the Controller or an authorized officer enter my computer system without a warrant?",
+                "expected_concept": "Yes, if there is reasonable cause to suspect a contravention of the provisions, they can access any computer system for searching or causing a search."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What powers does the Controller have regarding computers and data under this Act?",
+                "expected_concept": "The Controller or an authorized person has the power to direct those in charge of a computer system to provide necessary technical assistance to gain access for searching."
+            },
+            "answer": "The Controller has the power to give directions under section 68. Additionally, the Controller can issue directions for interception or monitoring of information through any computer resource under section 69, block public access to information through any computer resource under section 69A, and authorize the monitoring and collection of traffic data or information through any computer resource under section 69B.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "A citizen has been out of India for more than seven years and has not engaged in any educational or service activities outside India during that time. Does this affect their citizenship?",
+                "expected_concept": "Yes, if a citizen has been ordinarily resident outside India for a continuous period of seven years and has neither been at any time a student of any educational institution in a country outside India or in the service of a Government in India or an international organisation, it may affect their citizenship as per the criteria stated."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Is there any mention of a time frame for when these rules were last updated?",
+                "expected_concept": "Yes, some provisions were amended by Act 6 of 2004, effective from 3rd December 2014, and others by Act 39 of 1992, effective from 10th December 1987."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Can service providers charge for e-services without an express provision under any existing law?",
+                "expected_concept": "Yes, there is no express provision under the Act, rule, regulation or notification allowing the collection of e-service charges by service providers. The appropriate Government can specify the scale of such charges via a notification in the Official Gazette."
+            },
+            "answer": "Yes, service providers can charge for e-services without an express provision under any existing law, provided that the appropriate Government has specified the scale of such charges through a notification in the Official Gazette.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "Under what conditions can electronic records be retained to satisfy legal requirements for document retention?",
+                "expected_concept": "Electronic records can satisfy legal requirements for document retention if they remain accessible, are kept in their original format or an accurately representative format, and include details that identify the origin, destination, date, and time of despatch or receipt. This condition does not apply to information automatically generated."
+            },
+            "answer": "To satisfy legal requirements for document retention under the provided policy excerpts, electronic records must:\n(a) Remain accessible so as to be usable for subsequent reference.\n(b) Be retained in the format in which they were originally generated, sent, or received, or in a format that can be demonstrated to accurately represent the original information.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "When did the amendment by Act 55 of 2002 come into effect?",
+                "expected_concept": "The amendment by Act 55 of 2002 came into effect on 26-2-2003."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What section was substituted by the act of 2017?",
+                "expected_concept": "Section 82 was substituted by the 2017 act."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Can an intermediary be held liable for third-party information under this Act?",
+                "expected_concept": "No, an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him, subject to the provisions of sub-sections (2) and (3)."
+            },
+            "answer": "No, an intermediary cannot be held liable for third-party information under this Act. The policy states that an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him, provided the intermediary's function is limited to providing access to a communication system and they do not initiate the transmission.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Who can investigate offences under this Act according to section 78?",
+                "expected_concept": "A police officer not below the rank of Inspector shall investigate any offence under this Act."
+            },
+            "answer": "A police officer not below the rank of Inspector can investigate offences under this Act.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Can the provisions of this Act override any other conflicting laws?",
+                "expected_concept": "Yes, the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+            },
+            "answer": "No, the provisions of this Act shall be in addition to, and not in derogation of the provisions of any other law, for the time being in force.",
+            "score": 1
+        },
+        {
+            "test": {
+                "question": "How do the provisions of this Act apply to electronic cheques and truncated cheques?",
+                "expected_concept": "The provisions of this Act, for the time being in force, shall apply to, or in relation to, electronic cheques and truncated cheques subject to such modifications and amendments as may be necessary for carrying out the purposes of the Negotiable Instruments Act, 1881 by the Central Government, in consultation with the Reserve Bank of India."
+            },
+            "answer": "According to policy excerpt 81A, the Act applies to electronic cheques and truncated cheques.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What rights does an aggrieved person have according to the text?",
+                "expected_concept": "An aggrieved person has the right to make an application for obtaining a relief by way of a protection order, an order for monetary relief, a custody order, a residence order, a compensation order or more than one such order under this Act. They also have the right to avail services provided by service providers and Protection Officers, as well as free legal services under the Legal Services Authorities Act, 1987. Additionally, they can file a complaint under section 498A of the Indian Penal Code if relevant."
+            },
+            "answer": "An aggrieved person has the right to claim relief for:\n- Loss of earnings\n- Medical expenses\n- Loss caused due to property damage\n- Maintenance, including for children\n\nAdditionally, they can apply for a protection order and receive legal aid. The court may pass an order prohibiting the respondent from committing acts of domestic violence or entering places frequented by the aggrieved person.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What is the duty of a police officer when dealing with domestic violence?",
+                "expected_concept": "A police officer who has received a complaint of domestic violence or is present at the place of an incident of domestic violence shall inform the aggrieved person about their rights and available services, including the right to apply for various types of protection orders, use services of service providers and Protection Officers, access free legal services, and file a complaint under section 498A of the Indian Penal Code if relevant."
+            },
+            "answer": "When dealing with domestic violence, a police officer's duties include:\n\n- Receiving a complaint of domestic violence and making a domestic incident report.\n- Forwarding copies of the report to the Magistrate, the police station within the local limits where the incident occurred, and service providers in that area.\n- Getting the aggrieved person medically examined and forwarding a copy of the medical report to the Protection Officer and the police station within the local limits where the domestic violence took place.\n- Ensuring that the aggrieved person is provided shelter if needed and forwarding a report of the lodging to the police station.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "If my ex-partner is trying to contact me after a protection order has been issued, what is considered a violation according to this text?",
+                "expected_concept": "Attempting to communicate with you in any form, including personal, oral, written, electronic, or telephonic contact, would be considered a violation."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What does the residence order entail if the Magistrate decides to issue one after an application for protection has been made?",
+                "expected_concept": "The residence order can restrain the respondent from dispossessing or disturbing the possession of the aggrieved person from their shared household and may direct the respondent to remove themselves from the shared household."
+            },
+            "answer": "The residence order, if issued by the Magistrate, can entail:\n\n(a) Restraining the respondent from dispossessing or in any other manner disturbing the possession of the aggrieved person from the shared household, whether or not the respondent has a legal or equitable interest in the shared household; \n(b) Directing the respondent to remove himself from the shared household.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Can an appeal be filed after the initial time limit if there was a valid reason for missing it?",
+                "expected_concept": "Yes, the High Court may allow an appeal to be filed within 60 days after the original deadline if it is satisfied that sufficient cause prevented the timely filing."
+            },
+            "answer": "Yes, an appeal can be filed after the initial time limit of forty-five days if the Appellate Tribunal is satisfied that there was sufficient cause for not filing it within that period.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What conditions must be met for a contravention under this Act to be compounded?",
+                "expected_concept": "A contravention can be compounded by the Controller or an authorized officer before or after adjudication proceedings, subject to conditions specified by them."
+            },
+            "answer": "Any contravention under this Act may be compounded either before or after the institution of adjudication proceedings, by the Controller or a specially authorized officer, or by the adjudicating officer.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "Can a private company be authorized as a service provider under Section 16A?",
+                "expected_concept": "Yes, a private company can be authorized as a service provider."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What are the service charges collected by the service providers under Section 16A used for?",
+                "expected_concept": "The service charges are used to provide services as specified by the appropriate Government."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Can the certifying authority delegate its powers under Section 27?",
+                "expected_concept": "No, the text does not provide information on whether the certifying authority can delegate its powers under Section 27."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What are the duties of a subscriber with an Electronic Signature Certificate as mentioned in Chapter VIII, Section 40A?",
+                "expected_concept": "The text does not specify the duties of a subscriber with an Electronic Signature Certificate as outlined in Section 40A of Chapter VIII."
+            },
+            "answer": "In respect of Electronic Signature Certificate, the subscriber shall perform such duties as may be prescribed.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What does \"computer\" include according to this text?",
+                "expected_concept": "A \"computer\" includes any electronic, magnetic, optical or other high-speed data processing device that performs logical, arithmetic, and memory functions by manipulating electronic, magnetic or optical impulses, and also includes all input, output, processing, storage, computer software or communication facilities connected or related to the computer in a system or network."
+            },
+            "answer": "According to the policy excerpt provided, a \"computer\" includes any electronic, magnetic, optical, or other high-speed data processing device or system that performs logical, arithmetic, and memory functions by manipulation of electronic data.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "Can you define \"computer network\" based on this text?",
+                "expected_concept": "A \"computer network\" is defined as the inter-connection of one or more computers or computer systems or communication devices through satellite, microwave, terrestrial line, wire, wireless or other communication media, and/or terminals, with a complex consisting of two or more interconnected computers or communication devices, regardless of whether the inter-connection is continuously maintained."
+            },
+            "answer": "A computer network means the inter-connection of one or more computers or computer systems or communication devices through:\n(i) the use of satellite, microwave, terrestrial line, wire, wireless, or other communication media; and\n(ii) terminals or a complex consisting of two or more interconnected computers or communication devices whether or not the inter-connection is continuously maintained.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Can a court take cognizance of an offense under section 31 without further evidence besides the aggrieved person's testimony?",
+                "expected_concept": "Yes, upon the sole testimony of the aggrieved person, the court may conclude that an offence under sub-section (1) of section 31 has been committed by the accused."
+            },
+            "answer": "Yes, according to the policy excerpt provided, a court can take cognizance of an offense under section 31 without further evidence besides the aggrieved person's testimony.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "What legal consequences can a Protection Officer face if they fail to discharge their duties as directed by a Magistrate without sufficient cause?",
+                "expected_concept": "If any Protection Officer fails or refuses to discharge his duties as directed by the Magistrate in the protection order without any sufficient cause, he shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "A company has experienced a data breach. According to the text, what must a certifying authority do if they are affected?",
+                "expected_concept": "The certifying authority must use reasonable efforts to notify any person who is likely to be affected by the occurrence or act in accordance with the procedure specified in its certification practice statement to deal with such an event or situation."
+            },
+            "answer": "If a certifying authority is affected by an event that may materially and adversely affect the integrity of its computer system or the conditions subject to which a 2[electronic signature] Certificate was granted, then the certifying authority shall use reasonable efforts to notify any person who is likely to be affected by that occurrence.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "What is required when submitting an application for a 2[electronic signature] Certificate?",
+                "expected_concept": "Every application for a 2[electronic signature] Certificate must be accompanied by a certification practice statement, or where there is no such statement, a statement containing the particulars as may be specified by regulations."
+            },
+            "answer": "The form in which an application for issuance of an electronic signature Certificate may be made under sub-section (1) of section 35 is required when submitting an application for a 2[electronic signature] Certificate.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "Can the filing of an HR form be considered satisfied if it is done electronically as per the appropriate Government's prescription?",
+                "expected_concept": "Yes, if such filing is effected by means of an electronic form as prescribed by the appropriate Government, then it would satisfy the requirement."
+            },
+            "answer": "Yes, the filing of an HR form can be considered satisfied if it is done electronically as per the appropriate Government's prescription.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "What can the appropriate Government prescribe regarding electronic records in the context of HR and legal matters?",
+                "expected_concept": "The appropriate Government may prescribe the manner and format in which such electronic records shall be filed, created or issued for the purposes mentioned."
+            },
+            "answer": "The appropriate Government may prescribe the manner and format in which electronic records shall be filed, created, or issued in the context of HR and legal matters.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "What does this Act provide legal recognition for?",
+                "expected_concept": "Transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to as \"electronic commerce.\""
+            },
+            "answer": "This Act provides legal recognition for transactions carried out by means of electronic data interchange and other means of electronic communication, commonly referred to as \"electronic commerce,\" which involve the use of alternatives to paper-based methods of communication and storage of information.",
+            "score": 5
+        },
+        {
+            "test": {
+                "question": "Why was this Act enacted?",
+                "expected_concept": "To give effect to the United Nations resolution A/RES/51/162, dated 30th January, 1997, which adopted a Model Law on Electronic Commerce, and to promote efficient delivery of Government services by means of reliable electronic records."
+            },
+            "answer": "I don't have enough information in the provided policies.",
+            "score": 3
+        },
+        {
+            "test": {
+                "question": "What does \"electronic signature\" mean according to this text?",
+                "expected_concept": "An electronic signature means authentication of any electronic record by a subscriber using a technique specified in the Second Schedule and includes a digital signature."
+            },
+            "answer": "\"Electronic signature\" means authentication of any electronic record by a subscriber using an electronic technique specified in the Second Schedule and includes digital signature.",
+            "score": 4
+        },
+        {
+            "test": {
+                "question": "Who is considered an \"intermediary\" under these definitions?",
+                "expected_concept": "An intermediary, with respect to any particular electronic records, means any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record and includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online-auction sites, online-market places and cyber cafes."
+            },
+            "answer": "An \"intermediary\" under these definitions includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online-auction sites, online-marketplaces, and cyber cafes.",
+            "score": 4
+        }
+    ]
+}
